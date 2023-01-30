@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/mat/Desktop/projekt-koncowy-MKryszkiewicz/build",
+  "command": "/usr/bin/g++  -I/home/mat/Desktop/projekt-koncowy-MKryszkiewicz/include -g -o CMakeFiles/cpp-project.dir/src/Gra.cpp.o -c /home/mat/Desktop/projekt-koncowy-MKryszkiewicz/src/Gra.cpp",
+  "file": "/home/mat/Desktop/projekt-koncowy-MKryszkiewicz/src/Gra.cpp"
+},
+{
+  "directory": "/home/mat/Desktop/projekt-koncowy-MKryszkiewicz/build",
+  "command": "/usr/bin/g++  -I/home/mat/Desktop/projekt-koncowy-MKryszkiewicz/include -g -o CMakeFiles/cpp-project.dir/src/PrintHello.cpp.o -c /home/mat/Desktop/projekt-koncowy-MKryszkiewicz/src/PrintHello.cpp",
+  "file": "/home/mat/Desktop/projekt-koncowy-MKryszkiewicz/src/PrintHello.cpp"
+},
+{
+  "directory": "/home/mat/Desktop/projekt-koncowy-MKryszkiewicz/build",
+  "command": "/usr/bin/g++  -I/home/mat/Desktop/projekt-koncowy-MKryszkiewicz/include -g -o CMakeFiles/cpp-project.dir/src/main.cpp.o -c /home/mat/Desktop/projekt-koncowy-MKryszkiewicz/src/main.cpp",
+  "file": "/home/mat/Desktop/projekt-koncowy-MKryszkiewicz/src/main.cpp"
+}
+]

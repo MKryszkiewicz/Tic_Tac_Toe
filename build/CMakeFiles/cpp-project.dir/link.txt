@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp-project.dir/src/Gra.cpp.o CMakeFiles/cpp-project.dir/src/PrintHello.cpp.o CMakeFiles/cpp-project.dir/src/main.cpp.o -o cpp-project 
