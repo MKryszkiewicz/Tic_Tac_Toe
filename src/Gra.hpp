@@ -197,7 +197,7 @@ void Gra::ruch_ai()
             plansza[2][i] = 'O';
             return;
         }
-        if (plansza[0][i] == 'X' && plansza[1][i] == ' ' && plansza[2][i] == 'O')
+        if (plansza[0][i] == 'O' && plansza[1][i] == ' ' && plansza[2][i] == 'O')
         {
             plansza[1][i] = 'O';
             return;
